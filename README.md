@@ -28,4 +28,6 @@ I'm always motivated to learn, improve, and collaborate on meaningful projects.
 
 Feel free to connect with me!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Roy%20Greenfeld-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/roy-greenfeld/)
+
 ---
